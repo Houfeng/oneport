@@ -1,5 +1,7 @@
 const oneport = require('../');
 
-onabort(function (err, port) {
+console.time('time');
+oneport(function (err, port) {
   console.log(port);
+  console.timeEnd('time');
 });

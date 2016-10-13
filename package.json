@@ -1,0 +1,29 @@
+{
+  "name": "oneport",
+  "version": "1.0.0",
+  "description": "用于获取一个空闲的端口的小模块",
+  "main": "./lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Houfeng/oneport.git"
+  },
+  "keywords": [
+    "port",
+    "freeport",
+    "activeport",
+    "free",
+    "active"
+  ],
+  "author": "Houfeng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Houfeng/oneport/issues"
+  },
+  "homepage": "https://github.com/Houfeng/oneport#readme"
+}
