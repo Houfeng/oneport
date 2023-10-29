@@ -1,6 +1,6 @@
 {
   "name": "oneport",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "用于获取一个空闲的端口的小模块",
   "main": "./lib/index.js",
   "directories": {
@@ -27,8 +27,8 @@
   },
   "homepage": "https://github.com/Houfeng/oneport#readme",
   "dependencies": {
-    "cify": "^2.1.1",
-    "ntils": "^2.0.3"
+    "cify": "2.1.1",
+    "ntils": "2.0.3"
   },
   "devDependencies": {
     "mocha": "^3.1.2"
